@@ -1,2 +1,2 @@
 run=smoke-merge-fa7fd9c9
-baseline
+smoke-merge-branch
